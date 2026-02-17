@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Ivan Anaya Gonzale</h1>
+<h1 align="center">Hi 👋, I'm Leonardo Ivan Anaya Gonzalez</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardoanaya" alt="leonardoanaya" /></a> </p>
 
 - 🔭 I’m currently working on [MexPd](https://mexpd.liigh.unam.mx/)
